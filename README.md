@@ -1,6 +1,6 @@
 # Blogging Application
 
-This is a Blogging Web Application for sharing information with each other. This Blogging Application can be used to share information information and images with each other.
+This is a Blogging Web Application for sharing information with each other. This Blogging Application can be used to share information and images with each other.
 
 # Installation Steps Summary
 
